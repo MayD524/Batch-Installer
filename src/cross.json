@@ -1,0 +1,9 @@
+{
+    "Windows": { 
+        "Python 3.9 exe":{"url":"https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe", "type":"exe", "outname":"python_setup"},
+        "Firefox":{"url":"https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US", "type":"exe", "outname":"firefox_setup"}
+    },
+    "Linux": {
+
+    }
+}
