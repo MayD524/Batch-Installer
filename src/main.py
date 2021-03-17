@@ -8,8 +8,8 @@
     GitHub        : https://github.com/RyanD524/Batch-Installer
 """
 
-## All of my prefered apps and programs
-## that i would need when setting up a new system.
+## This program will batch install programs
+## within a json file given to the program at start.
 from concurrent.futures import ThreadPoolExecutor # for speed
 import threading # get thread ID
 import platform  # for OS name check
